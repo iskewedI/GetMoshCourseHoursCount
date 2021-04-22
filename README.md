@@ -4,6 +4,7 @@
 
 ## How to use:
 - Download the project 
+- Install **requests**
 - Open terminal and execute this command:
 - - **python getHours.py *linkToMoshPage*** 
 
